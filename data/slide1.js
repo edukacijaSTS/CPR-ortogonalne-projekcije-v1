@@ -1,0 +1,6 @@
+(function(){var loadHandler=window['sl_{74B233FD-934E-4B5F-A2BC-EADC0E03FE7C}'];loadHandler&&loadHandler(0, '<div id="spr0_240e205a"><div id="spr1_240e205a" class="kern slide"><img id="img5_240e205a" src="data/img5.png" width="720px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_240e205a" class="kern slide"><div id="spr3_240e205a"><img id="img0_240e205a" src="data/img0.jpg" width="720" height="540" alt="Imagen F"/></div><div id="spr4_240e205a" style="left:65.125px;top:24.247px;"><img id="img1_240e205a" src="data/img1.gif" width="133.214" height="74.571" alt="!cid_005101c90c2d$23b054b0$a69f7457@m2mrxiuv4d0gwo"/></div><div id="spr5_240e205a" style="left:87px;top:333px;"><img id="img2_240e205a" src="data/img2.png" width="519" height="144" alt="\
+REDOVNO IZVRŠAVAJTE SVOJE OBVEZE\
+UČENJE NIJE MUČENJE\
+\
+Repetitio est mater studiorum ! (hrv. Ponavljanje je majka znanja !) \
+"/></div><div id="spr6_240e205a" style="left:518.421px;top:28.75px;"><img id="img3_240e205a" src="data/img3.png" width="172" height="172" alt="" style="left:0.125px;top:0.125px;"/></div><div id="spr7_240e205a" style="left:66px;top:129px;"><img id="img4_240e205a" src="data/img4.png" width="374" height="106" alt="CRTANJE POMOĆU RAČUNALA"/></div></div></div>');})();
